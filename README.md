@@ -162,7 +162,7 @@ docker build -t jiosaavn .
 docker run -p 80:3000 jiosaavn
 ```
 
-- Open http://localhost to view it in the browser.
+- Open (https://jiosaavanclone.netlify.app/) to view it in the browser.
 
 - Stop the container
 
