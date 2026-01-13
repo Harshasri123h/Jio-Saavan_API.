@@ -1,6 +1,5 @@
 <div align=center>
 
-![][ci] ![][views] ![][stars] ![][forks] ![][issues] ![][license] ![][code-size] ![][commit-activity]
 
 <img src="./public/jiosaavn-2.png" width="200px"/>
 
