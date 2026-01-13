@@ -8,7 +8,6 @@
 
 ### A simple wrapper for the Jio Saavn API powered by Hono.js 🔥.
 
-[**📚 Documentation**](https://docs-jiosaavn.netlify.app/) (in progress)
 
 ## ✨ Features
 
