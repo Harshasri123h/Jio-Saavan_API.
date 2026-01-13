@@ -1,7 +1,9 @@
 <div align=center>
 
+<img src="./public/jiosaavn-2.png" width="100px"/> 
 
-<img src="./public/jiosaavn-2.png" width="200px"/> 
+
+
 <img width="343" height="65" alt="image" src="https://github.com/user-attachments/assets/c6c45b1f-3c52-4f78-ae78-e571d9c8f1ec" />
 
 Jio_Saavan.com
