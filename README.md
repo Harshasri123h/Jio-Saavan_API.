@@ -13,6 +13,36 @@ In this project, I scraped (https://www.jiosaavn.com/) website songs List,here d
 
 ### A simple wrapper for the Jio Saavn API powered by Hono.js 🔥.
 
+# 🎵 Lokal Music Player (Android)
+
+A music streaming Android application built as part of a placement assignment.  
+The app consumes real music data from the public JioSaavn API and focuses on
+clean architecture, reliable media playback, and consistent state management.
+## 📚 References & Inspiration
+
+The following open-source projects were used **only as references for learning
+architecture and playback patterns**.  
+All code in this repository has been written and adapted specifically
+to meet the requirements of this assignment.
+
+- JioSaavn API (backend reference):  
+  https://github.com/sumitkolhe/jiosaavn-api
+
+- Android ExoPlayer reference implementations:  
+  https://github.com/android/uamp  
+  https://github.com/google/ExoPlayer
+
+- MVVM & Compose architecture inspiration:  
+  https://github.com/android/nowinandroid
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created strictly for **educational and evaluation purposes**.
+It does not claim ownership of any music content and uses publicly available APIs
+as referenced in the assignment.
+
 
 ## ✨ Features
 
