@@ -30,7 +30,7 @@
 - Clone the repository
 
 ```
-git clone https://github.com/rajput-hemant/jiosaavn-api-ts
+git clone -https://github.com/Harshasri123h/Jio-Saavan_API./tree/main
 cd jiosaavn-api-ts
 ```
 
@@ -64,9 +64,9 @@ bun run dev:vercel || pnpm dev:vercel || npm run dev:vercel || yarn dev:vercel
 #### Cloudflare Workers
 
 > **Warning**
-> Make sure to remove Node API code from [`src/index.ts`](https://github.com/rajput-hemant/jiosaavn-api-ts/blob/master/src/index.ts) & [`config.ts`](https://github.com/rajput-hemant/jiosaavn-api-ts/blob/master/src/lib/config.ts#L8) before deploying or running the project with Cloudflare Workers.
+> Make sure to remove Node API code from [`src/index.ts`](https://github.com/Harshasri123h/Jio-Saavan_API./blob/main/_api/index.ts) & [`config.ts`](https://github.com/Harshasri123h/Jio-Saavan_API.) before deploying or running the project with Cloudflare Workers.
 
-[src/index.ts](https://github.com/rajput-hemant/jiosaavn-api-ts/blob/master/src/index.ts)
+[src/index.ts](https://github.com/Harshasri123h/Jio-Saavan_API.)
 
 ```diff
 ...
@@ -77,7 +77,7 @@ bun run dev:vercel || pnpm dev:vercel || npm run dev:vercel || yarn dev:vercel
 ...
 ```
 
-[src/lib/config.ts](https://github.com/rajput-hemant/jiosaavn-api-ts/blob/master/src/lib/config.ts#L8)
+
 
 ```diff
 ...
@@ -178,23 +178,3 @@ docker stop <container-id>
 
 <div align=center>
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🦾 Contributors:
-
-<a href="https://github.com/rajput-hemant/jiosaavn-api-ts/graphs/contributors" target="blank"> <img src="https://contrib.rocks/image?repo=rajput-hemant/jiosaavn-api-ts&max=500" />
-
-</div>
-
-<!----------------------------------{ Labels }--------------------------------->
-
-[views]: https://komarev.com/ghpvc/?username=jiosaavn-api-ts&label=view%20counter&color=red&style=flat
-[code-size]: https://img.shields.io/github/languages/code-size/rajput-hemant/jiosaavn-api-ts
-[issues]: https://img.shields.io/github/issues-raw/rajput-hemant/jiosaavn-api-ts
-[license]: https://img.shields.io/github/license/rajput-hemant/jiosaavn-api-ts
-[commit-activity]: https://img.shields.io/github/commit-activity/w/rajput-hemant/jiosaavn-api-ts
-[forks]: https://img.shields.io/github/forks/rajput-hemant/jiosaavn-api-ts?style=flat
-[stars]: https://img.shields.io/github/stars/rajput-hemant/jiosaavn-api-ts
-[ci]: https://github.com/rajput-hemant/jiosaavn-api-ts/actions/workflows/ci.yml/badge.svg
